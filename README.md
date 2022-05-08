@@ -7,6 +7,7 @@ Coding Black Females was created in 2017. It is a nonprofit organisation, and ou
 ## CBF PROGRAM
 
 This was an 8 week program where we were taught how to code using python and how to build Machine Learning Models
+
 Course content can be found here;
 https://docs.google.com/presentation/d/1aeP21KBTQNzYR5Kx8Xsw0-k-CD5rJho1CJSMGnAG3kk/edit?usp=sharing
 
